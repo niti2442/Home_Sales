@@ -10,12 +10,6 @@ Clone the new repository to your computer.
 
 Push your changes to GitHub.
 
-Files
-
-Download the following files to help you get started:
-
-Module 22 Challenge files Links to an external site.
-
 Instructions
 
 Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
@@ -54,6 +48,3 @@ Verify that the home_sales temporary table is uncached using PySpark.
 
 Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
 
-Support and Resources
-
-Your instructional team will provide support during classes and office hours. You will also have access to learning assistants and tutors to help you with topics as needed. Make sure to take advantage of these resources as you collaborate with your partner on this project.
